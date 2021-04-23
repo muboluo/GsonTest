@@ -1,4 +1,4 @@
-package com.gosn.test.app;
+package com.gson.test.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
